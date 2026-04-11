@@ -15,6 +15,7 @@ Welcome to my portfolio! Here is a selection of my work.
     - Live carbon footprint estimation.
     - Data import/export using specialized GESLab formats.
 - **Role:** Full-stack development, API design, and Map integration.
+- **Repo:** https://github.com/amira-codecamp/site-web-missions-viewer
 
 ---
 
@@ -25,6 +26,7 @@ Welcome to my portfolio! Here is a selection of my work.
 - **Tech Stack:** Python, Machine Learning .
 - **Capabilities:** - Supports Arabic, French, and English.
 - **Installation:** `pip install doc-classifier`
+- **Repo:** https://github.com/amira-codecamp/doc-classifier
 - **[View on PyPI](https://pypi.org/project/doc-classifier/)**
 
 ---
@@ -37,6 +39,7 @@ Welcome to my portfolio! Here is a selection of my work.
     - Modern UI for exploring tourist spots.
     - Robust backend with Spring Boot and NoSQL database.
     - Fully deployed and responsive.
+- **Repo:** https://github.com/amira-codecamp/paris-attractions
 - **Live Demo:** [Paris Attractions on Render](https://paris-attractions-website-8f5z.onrender.com/)
 
 ---
