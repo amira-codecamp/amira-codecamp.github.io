@@ -1,49 +1,41 @@
-# amira-codecamp Portfolio
-### Full-Stack & AI Engineer
+### 👋 Hi, I'm Amira
 
-Welcome to my portfolio! Here is a selection of my work.
-
----
-
-## 🌍 Carbon Footprint App
-*A lightweight platform to visualize the carbon footprint of research missions.*
-
-* **Tech Stack:** Vue 3, Pinia, Bulma, Django REST Framework, MySQL
-* **Key Features:**
-    * Role-based access (Admin, Manager, Researcher)
-    * Interactive maps using **OpenStreetMap** & **Leaflet**
-    * Live carbon footprint estimation
-    * Data import/export using specialized GESLab formats
-* **Role:** Full-stack development, API design, and map integration
-* **Repo:** [site-web-missions-viewer](https://github.com/amira-codecamp/site-web-missions-viewer)
+#### ✨ Full-Stack & AI Engineer  
+*Bridging intelligent data with user-centric web experiences.*
 
 ---
 
-## 🤖 Doc-Classifier: ML Classification
-*A Python machine learning package for classifying scientific documents into fields of study.*
+## Projects
 
-* **Stats:** Trained on **117,976 documents** with **87% accuracy**
-* **Tech Stack:** Python, Machine Learning (Scikit-learn, NLP)
-* **Capabilities:** Supports Arabic, French, and English
-* **Installation:** `pip install doc-classifier`
-* **Links:** [GitHub Repo](https://github.com/amira-codecamp/doc-classifier) | [View on PyPI](https://pypi.org/project/doc-classifier/)
+<table>
 
----
+  <tr>
+    <td><strong>Carbon-App</strong></td>
+    <td>Track and visualize the CO₂ impact of your lab’s research missions.</td>
+    <td><code>Vue 3</code> · <code>Django</code> <code>MySQL</code></td>
+    <td>
+      <a href="https://github.com/amira-codecamp/site-web-missions-viewer">GitHub</a>
+    </td>
+  </tr>
 
-## 🗼 Paris Attractions
-*A full-stack web application for discovering the best spots in Paris.*
+  <tr>
+    <td><strong>Doc-Classifier</strong></td>
+    <td>ML-powered library for multilingual document classification.</td>
+    <td><code>Python</code> · <code>Scikit-learn</code> <code>NLP</code></td>
+    <td>
+      <a href="https://github.com/amira-codecamp/doc-classifier">GitHub</a> · 
+      <a href="https://pypi.org/project/doc-classifier/">PyPI</a>
+    </td>
+  </tr>
 
-* **Tech Stack:** Angular, Spring Boot (Java), MongoDB
-* **Key Features:**
-    * Modern UI for exploring tourist spots
-    * Robust backend with Spring Boot and NoSQL database
-    * Fully deployed and responsive
-* **Links:** [GitHub Repo](https://github.com/amira-codecamp/paris-attractions) | [Live Demo](https://paris-attractions-website-8f5z.onrender.com/)
+  <tr>
+    <td><strong>Paris-Attractions</strong></td>
+    <td>A web app to browse and explore Paris’s top tourist attractions.</td>
+    <td><code>Angular</code> · <code>Spring Boot</code> · <code>MongoDB</code></td>
+    <td>
+      <a href="https://github.com/amira-codecamp/paris-attractions">GitHub</a> · 
+      <a href="https://paris-attractions-website-8f5z.onrender.com/">Live Demo</a>
+    </td>
+  </tr>
 
----
-
-## 🛠 Skills & Tools
-* **Languages:** Python, Java, TypeScript, JavaScript, SQL
-* **Frameworks:** Django, Spring Boot, Vue 3, Angular
-* **Databases:** MySQL, MongoDB, PostgreSQL
-* **Tools & DevOps:** JWT, Docker, Git, REST APIs, Linux
+</table>
